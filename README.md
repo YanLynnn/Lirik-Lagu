@@ -1,5 +1,5 @@
 ## PHYTON, JAVASCRIPT SIMPLE TEMPLATE SONGS🎵
-![alt text](https://files.catbox.moe/dfy5md.jpg?raw=true)
+![alt text](https://files.catbox.moe/m4a0u8.jpg?raw=true)
 
 ## How to run scripts in termux application:
 node tante.py
